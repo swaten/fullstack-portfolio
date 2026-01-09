@@ -90,7 +90,7 @@ const Portfolio = () => {
                 <img 
                   src={`${import.meta.env.BASE_URL}profile.jpeg`}
                   alt="Dhruv Tripathi" 
-                  className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500" 
+                  className="w-full h-full object-cover transition-all duration-500" 
                 />
               </div>
               {/* <div className="absolute -bottom-6 -left-6 bg-blue-600 p-4 rounded-2xl shadow-xl">
