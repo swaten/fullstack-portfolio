@@ -47,6 +47,28 @@ const Portfolio = () => {
         "Migrated legacy IVF healthcare modules to modern Laravel standards.",
         "Scalable foundational platforms across construction and gym domains."
       ]
+    },
+    {
+    role: "PHP Developer",
+    company: "Balance Nutrition",
+    period: "AUG 2020 - JAN 2021",
+    description: "Developed and scaled core health-tech products for a pan-India user base",
+    points: [
+      "Architected RESTful APIs to synchronize data between users and dieticians.",
+      "Built complex modules including Health Score Module, BMI calculators and recipe management systems and many more.",
+      "Enhanced mobile performance through optimized API response times for thousands of users."
+    ]
+    },
+    {
+      role: "Junior PHP Developer",
+      company: "Mobilestyx",
+      period: "NOV 2018 - JULY 2020",
+      description: "Engineered high-traffic car purchasing workflows for global automotive brands.",
+      points: [
+        "Been part of Development of an E-commerce automotive platform for Jaguar Land Rover.",
+        "Specialized in REST API development for Qatar and Oman markets.",
+        "Built operational modules for Stock Management and Invoice Generation."
+      ]
     }
   ];
 
