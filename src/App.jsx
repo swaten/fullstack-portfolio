@@ -88,7 +88,7 @@ const Portfolio = () => {
               <div className="absolute -inset-1 bg-gradient-to-r from-blue-600 to-cyan-500 rounded-3xl blur opacity-25 group-hover:opacity-50 transition duration-1000"></div>
               <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-3xl overflow-hidden border border-gray-700 bg-[#1a1a1a]">
                 <img 
-                  src="/profile.jpeg" 
+                  src={`${import.meta.env.BASE_URL}profile.jpeg`}
                   alt="Dhruv Tripathi" 
                   className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500" 
                 />
